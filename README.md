@@ -1,4 +1,5 @@
 ### Hi there 👋
+## I'm Amal Orsan 42 irbid student
 
 - 🔭 I’m currently working on 42 projects
 - 🌱 I’m currently learning C , python and so on.
