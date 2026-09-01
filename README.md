@@ -1,7 +1,7 @@
-### Hi there 👋 
+# Hi, I'm Amal 👋
 
-- 🔭 I’m currently working on 42 projects.
-- 👩🏻‍💻 I’m currently a 42 Irbid student.
-- 🌱 I’m currently learning C , python and so on.
-- 💬 Ask me about 42 and flutter
-- 📫 How to reach me: amalorsan17@gmail.com
+🎓 AI Master's student at Yarmouk University (BSc in Data Science & AI, yarmouk university)
+🧑‍💻 Currently at 42 Irbid, in the Core Program (post-Piscine)
+🌱 Learning: C/C++, Python, Flutter, Machine Learning, Git, Arduino
+💬 Ask me about: 42 projects, Data Science & AI, Flutter
+📫 Reach me: amalorsan17@gmail.com
