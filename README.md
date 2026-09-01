@@ -1,7 +1,9 @@
 # Hi, I'm Amal 👋
 
 🎓 AI Master's student at Yarmouk University (BSc in Data Science & AI, same university)
+
 🧑‍💻 Currently at 42 Irbid, in the Core Program (post-Piscine)
+
 💬 Ask me about: 42 projects, Data Science & AI, Flutter
 
 ---
@@ -18,12 +20,12 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amalorsan17&show_icons=true&theme=default&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amalorsan17&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amal-orsan&show_icons=true&theme=default&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amal-orsan&theme=default&hide_border=true)
 
 ---
 
 ### 🌐 Connect with me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amalorsan17@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amal-orsan)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amalorsan17)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amal-orsan)
