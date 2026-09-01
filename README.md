@@ -23,7 +23,9 @@
 ## 👩‍💻 About
 
 🎓 **MSc in Artificial Intelligence** — Yarmouk University
+
 🎓 **BSc in Data Science & Artificial Intelligence** — Yarmouk University
+
 💻 **42 Irbid — Core Program**
 
 Currently focused on **AI, Machine Learning, and Software Engineering**.
@@ -124,7 +126,7 @@ Software engineering projects focused on algorithms, memory management, Unix sys
 
 <div align="center">
 
-`libft` · `ft_printf` · `get_next_line` · `push_swap` · `so_long` · `minitalk`
+`libft` · `ft_printf` · `get_next_line` · `push_swap` 
 
 </div>
 
